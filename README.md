@@ -1,4 +1,4 @@
-# MCDC-P-electron
+# MCDCe-performance
 
 Electron benchmark set for comparing the optimized `MCDC` tree across:
 
